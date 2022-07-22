@@ -1,0 +1,21 @@
+body{
+    background: rgb(143, 143, 143);
+   
+}
+
+img{
+    margin-top: 50px;
+}
+/* FOOTER  */
+footer{
+   padding: 10px;
+    
+}
+footer p{
+    color: #fff;
+}
+
+footer ul {
+    list-style: none;
+   
+}
